@@ -1,0 +1,24 @@
+Alice is connecting to the server. 
+Alice has connected with Bob.
+Alice: Hello Bob, is our agreed upon values still: p = 784313 and g = 1907? Line (1) 
+Alice: Great! This is my public key: 179464 Line (2) 
+Alice: My calculated shared secret value is: 475269Line (3) 
+Alice: Thanks Bob, see ya later! Line (4)
+Bob: Waiting for Alice... Line (1) 
+Bob: Just connected to Alice. Line (2) 
+Bob: Yes, p = 784313 and g = 1907. Let's start the exchange! Line (3) 
+Bob: Key was received. This is my public key: 449485 Line (4) 
+Bob: My calculated shared secret value is: 475269Line (5) 
+Bob: Later, Alice. Line (6)
+Alice is connecting to the server. 
+Alice has connected with Bob.
+Alice: Hello Bob, is our agreed upon values still: p = 784313 and g = 1907? Line (1) 
+Alice: Great! This is my public key: 179464 Line (2) 
+Alice: My calculated shared secret value is: 475269Line (3) 
+Alice: Thanks Bob, see ya later! Line (4)
+Bob: Waiting for Alice... Line (1) 
+Bob: Just connected to Alice. Line (2) 
+Bob: Yes, p = 784313 and g = 1907. Let's start the exchange! Line (3) 
+Bob: Key was received. This is my public key: 449485 Line (4) 
+Bob: My calculated shared secret value is: 475269Line (5) 
+Bob: Later, Alice. Line (6)
