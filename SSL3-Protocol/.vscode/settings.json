@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "objectSizeFetcher.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
